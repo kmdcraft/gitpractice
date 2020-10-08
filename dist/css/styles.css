@@ -1,8 +1,19 @@
 h1 {
     color: red;
-    font-size: 6rem;
+    font-size: 5rem;
+    width: 100vw;
+    margin-top: 40px;
 }
 
 body {
     background-color: goldenrod;
+    text-align: center;
+}
+
+ul li {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
