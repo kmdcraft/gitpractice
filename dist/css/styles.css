@@ -2,12 +2,29 @@ h1 {
     color: red;
     font-size: 5rem;
     width: 100vw;
-    margin-top: 40px;
+    margin-top: 80px;
+}
+nav {
+    position: fixed;
+    top: 0;
+    left: 28vw;
+    background-color: goldenrod;
+    box-shadow: 3px 5px 5px gray;
+}
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
 }
 
 body {
     background-color: goldenrod;
     text-align: center;
+}
+
+#wheel {
+    width: 60%;
+    margin: 50px auto;
 }
 
 ul li {
